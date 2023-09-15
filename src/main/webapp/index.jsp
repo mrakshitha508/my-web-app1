@@ -1,7 +1,6 @@
 <html>
 <body>
-<h2>RAKSHITHA WELCOME</h2>
-<h2>ASHOKIT</h2>
-<h2>RAKSHITHA</h2>
+<h1>ASHOKIT</h1>
+<h2>Learn Here...Lead Anywhere..</h2>
 </body>
 </html>
